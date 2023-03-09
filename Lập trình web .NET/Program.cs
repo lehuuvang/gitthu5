@@ -8,7 +8,8 @@ var app = builder.Build();
 
 //sua clone
 // cau 17
-//thay doi file bat ki trong res 
+//thay doi file bat ki trong res
+//thay doi file conflic
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
