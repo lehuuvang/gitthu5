@@ -6,6 +6,8 @@ builder.Services.AddRazorPages();
 var app = builder.Build();
 //sua change
 
+//sua clone
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
