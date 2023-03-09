@@ -13,7 +13,7 @@ var app = builder.Build();
 //sua conflic
 int a;
 int c;
-
+int d;
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
