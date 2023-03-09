@@ -16,6 +16,9 @@ int c;
 int d;
 //thay doi file bat ki trong res 
 int b;
+int e;
+
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
