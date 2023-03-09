@@ -7,6 +7,8 @@ var app = builder.Build();
 //sua change
 
 //sua clone
+// cau 17
+//thay doi file bat ki trong res 
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
