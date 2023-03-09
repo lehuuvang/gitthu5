@@ -14,7 +14,8 @@ var app = builder.Build();
 int a;
 int c;
 int d;
-
+//thay doi file bat ki trong res 
+int b;
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
