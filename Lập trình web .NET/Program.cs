@@ -10,6 +10,13 @@ var app = builder.Build();
 // cau 17
 //thay doi file bat ki trong res 
 int b;
+//thay doi file bat ki trong res
+//thay doi file conflic
+//sua conflic
+int a;
+int c;
+
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
