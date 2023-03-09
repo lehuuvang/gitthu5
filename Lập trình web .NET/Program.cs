@@ -12,6 +12,7 @@ var app = builder.Build();
 //thay doi file conflic
 //sua conflic
 int a;
+int c;
 
 
 // Configure the HTTP request pipeline.
