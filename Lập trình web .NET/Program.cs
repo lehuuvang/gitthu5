@@ -8,6 +8,8 @@ var app = builder.Build();
 
 //sua clone
 // cau 17
+//thay doi file bat ki trong res 
+int b;
 //thay doi file bat ki trong res
 //thay doi file conflic
 //sua conflic
